@@ -1,4 +1,4 @@
-# PageMatch — AI Landing Page Personalizer
+# PageMatch - AI Landing Page Personalizer
 
 > Automatically personalize landing page copy to match your ad creative using Gemini 2.5 Flash Vision and CRO principles.
 
