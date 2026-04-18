@@ -6,7 +6,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-green?style=flat-square)
 ![Gemini](https://img.shields.io/badge/Gemini-2.5%20Flash-orange?style=flat-square)
 ![Playwright](https://img.shields.io/badge/Playwright-Chromium-purple?style=flat-square)
-![License](https://img.shields.io/badge/License-MIT-lightgrey?style=flat-square)
+
 
 ---
 
